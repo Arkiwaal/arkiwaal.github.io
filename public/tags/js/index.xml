@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>js on Arkiwaal</title>
-    <link>https://arkiwaal.github.io/tags/js/</link>
+    <link>/tags/js/</link>
     <description>Recent content in js on Arkiwaal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 18:58:18 +0530</lastBuildDate><atom:link href="https://arkiwaal.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 18:58:18 +0530</lastBuildDate><atom:link href="/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://arkiwaal.github.io/posts/first/</link>
+      <link>/posts/first/</link>
       <pubDate>Fri, 15 Dec 2023 18:58:18 +0530</pubDate>
       
-      <guid>https://arkiwaal.github.io/posts/first/</guid>
+      <guid>/posts/first/</guid>
       <description>This is a level 1 heading This is a level 2 heading This is a paragraph</description>
     </item>
     

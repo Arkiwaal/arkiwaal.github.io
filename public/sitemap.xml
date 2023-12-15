@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arkiwaal.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-12-16T00:02:11+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-12-16T00:02:11+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/posts/second/</loc>
+    <loc>/posts/second/</loc>
     <lastmod>2023-12-16T00:02:11+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/posts/first/</loc>
+    <loc>/posts/first/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/tags/js/</loc>
+    <loc>/tags/js/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/tags/md/</loc>
+    <loc>/tags/md/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/categories/tech/</loc>
+    <loc>/categories/tech/</loc>
     <lastmod>2023-12-15T18:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://arkiwaal.github.io/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>https://arkiwaal.github.io/learning/</loc>
+    <loc>/learning/</loc>
   </url>
 </urlset>

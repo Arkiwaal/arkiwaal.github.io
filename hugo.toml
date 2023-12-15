@@ -1,7 +1,7 @@
-baseURL = 'https://arkiwaal.github.io'
-languageCode = 'en-us'
-title = 'Arkiwaal'
-theme = 'PaperMod'
+baseURL = "https://arkiwaal.github.io"
+languageCode = "en-us"
+title = "Arkiwaal"
+theme = "PaperMod"
 
 [params]
   showBreadCrumbs = true
@@ -19,6 +19,7 @@ theme = 'PaperMod'
   [params.label]
     text = "Home"
     icon = "img/image.jpeg"
+    url = "https://arkiwaal.github.io"
 
   [params.homeInfoParams]
     title = "Greetings - O, Weary Wanderer of Cyberspace"

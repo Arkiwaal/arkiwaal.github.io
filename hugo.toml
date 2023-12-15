@@ -65,5 +65,5 @@ theme = "PaperMod"
   weight = 40
 
 [taxonomies]
-  category = 'categories'
-  tag = 'tags'
+  category = "categores"
+  tag = "tags"

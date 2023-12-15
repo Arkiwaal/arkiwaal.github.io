@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Arkiwaal</title>
-    <link>/posts/</link>
+    <link>https://arkiwaal.github.io/posts/</link>
     <description>Recent content in Posts on Arkiwaal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Dec 2023 00:02:11 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 00:02:11 +0530</lastBuildDate><atom:link href="https://arkiwaal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
-      <link>/posts/second/</link>
+      <link>https://arkiwaal.github.io/posts/second/</link>
       <pubDate>Sat, 16 Dec 2023 00:02:11 +0530</pubDate>
       
-      <guid>/posts/second/</guid>
+      <guid>https://arkiwaal.github.io/posts/second/</guid>
       <description>This is my second post.</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>/posts/first/</link>
+      <link>https://arkiwaal.github.io/posts/first/</link>
       <pubDate>Fri, 15 Dec 2023 18:58:18 +0530</pubDate>
       
-      <guid>/posts/first/</guid>
+      <guid>https://arkiwaal.github.io/posts/first/</guid>
       <description>This is a level 1 heading This is a level 2 heading This is a paragraph</description>
     </item>
     

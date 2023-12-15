@@ -1,0 +1,68 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Arkiwaal'
+theme = 'PaperMod'
+
+[params]
+  showBreadCrumbs = true
+  showReadingTime = true
+  showShareButtons = true
+  showPostNavLinks = true
+
+  [params.assets]
+    favicon = "img/favicon.png"
+    favicon16x16 = "img/favicon16x16.png"
+    favicon32x32 = "img/favicon32x32.png"
+    apple_touch_icon = "img/apple_touch_icon.png"
+    safari_pinned_tab = "img/safari_pinned_tab.svg"
+
+  [params.label]
+    text = "Home"
+    icon = "img/image.jpeg"
+
+  [params.homeInfoParams]
+    title = "Greetings - O, Weary Wanderer of Cyberspace"
+    content = "Welcome to Arkiwaal. Adventure awaits - or maybe you want to rest your soul here before you continue..."
+ 
+  [[params.socialIcons]]
+    name = "github"
+    url = "www.github.com"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "www.twitter.com"
+   
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "www.facebook.com"
+  
+  [params.cover]
+    linkFullImages = true
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/Categories/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "learning"
+  name = "Learning"
+  url = "/learning/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "archives"
+  name = "Archives"
+  url = "/archives/"
+  weight = 40
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'

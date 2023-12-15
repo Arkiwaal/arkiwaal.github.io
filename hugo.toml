@@ -23,7 +23,7 @@ theme = "PaperMod"
 
   [params.homeInfoParams]
     title = "Greetings - O, Weary Wanderer of Cyberspace"
-    content = "Welcome to Arkiwaal. Adventure awaits - or maybe you would like to rest your soul here before you embark on your journey."
+    content = "Welcome to Arkiwaal. Adventure awaits - or perhaps you would like to rest your soul here before you, once more, embark on your journey."
  
   [params.cover]
     linkFullImages = true

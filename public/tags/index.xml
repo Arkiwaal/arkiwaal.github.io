@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Arkiwaal</title>
-    <link>/tags/</link>
+    <link>https://arkiwaal.github.io/tags/</link>
     <description>Recent content in Tags on Arkiwaal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 18:58:18 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 18:58:18 +0530</lastBuildDate><atom:link href="https://arkiwaal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>/tags/css/</link>
+      <link>https://arkiwaal.github.io/tags/css/</link>
       <pubDate>Fri, 15 Dec 2023 18:58:18 +0530</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>https://arkiwaal.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/tags/html/</link>
+      <link>https://arkiwaal.github.io/tags/html/</link>
       <pubDate>Fri, 15 Dec 2023 18:58:18 +0530</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://arkiwaal.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>/tags/js/</link>
+      <link>https://arkiwaal.github.io/tags/js/</link>
       <pubDate>Fri, 15 Dec 2023 18:58:18 +0530</pubDate>
       
-      <guid>/tags/js/</guid>
+      <guid>https://arkiwaal.github.io/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>md</title>
-      <link>/tags/md/</link>
+      <link>https://arkiwaal.github.io/tags/md/</link>
       <pubDate>Fri, 15 Dec 2023 18:58:18 +0530</pubDate>
       
-      <guid>/tags/md/</guid>
+      <guid>https://arkiwaal.github.io/tags/md/</guid>
       <description></description>
     </item>
     

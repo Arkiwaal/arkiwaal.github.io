@@ -4,7 +4,7 @@ date = 2023-12-16T05:22:34+05:30
 draft = false
 
 tags = [ "Arkiwaal", "Intro" ]
-categories = [ "tech" ]
+categories = [ "Tech" ]
 
 [cover]
 image = "img/arkiwaal.jpeg"

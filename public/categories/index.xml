@@ -6,11 +6,20 @@
     <description>Recent content in Categories on Arkiwaal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 18:58:18 +0530</lastBuildDate><atom:link href="https://arkiwaal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 05:56:32 +0530</lastBuildDate><atom:link href="https://arkiwaal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>https://arkiwaal.github.io/categories/education/</link>
+      <pubDate>Sat, 16 Dec 2023 05:56:32 +0530</pubDate>
+      
+      <guid>https://arkiwaal.github.io/categories/education/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tech</title>
       <link>https://arkiwaal.github.io/categories/tech/</link>
-      <pubDate>Fri, 15 Dec 2023 18:58:18 +0530</pubDate>
+      <pubDate>Sat, 16 Dec 2023 05:22:34 +0530</pubDate>
       
       <guid>https://arkiwaal.github.io/categories/tech/</guid>
       <description></description>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Arkiwaal</title>
-    <link>https://arkiwaal.github.io/</link>
+    <link>https://arkiwaal.github.io/tags/arkiwaal/</link>
     <description>Recent content on Arkiwaal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Dec 2023 05:22:34 +0530</lastBuildDate><atom:link href="https://arkiwaal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 05:22:34 +0530</lastBuildDate><atom:link href="https://arkiwaal.github.io/tags/arkiwaal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arkiwaal Begins</title>
       <link>https://arkiwaal.github.io/posts/welcome/</link>
@@ -16,16 +16,6 @@
       <description>Arkiwaal Begins Welcome to Arkiwaal.
 What is Arkiwaal? The word &amp;ldquo;Arkiwaal&amp;rdquo; was conceived on a whim, inspired by the term &amp;ldquo;ARC&amp;rdquo;. My intention was to give it a Central European flavor. Arkiwaal is designed as a platform to share my learnings in the tech world, with a special emphasis on cyber security.
 Gamifying Everything Currently, I am working on creating a course that will be freely accessible to all (no sign-up required).</description>
-    </item>
-    
-    
-    <item>
-      <title>Learning</title>
-      <link>https://arkiwaal.github.io/learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arkiwaal.github.io/learning/</guid>
-      <description>learning</description>
     </item>
     
   </channel>
